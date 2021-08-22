@@ -1,0 +1,75 @@
+    h1 {
+        max-width: max-content;
+        font-family: 'Times New Roman', Times, serif;
+        font-family: monospace;
+        font-weight: bolder;
+    }
+    
+    h2 {
+        max-width: max-content;
+        font-family: 'Times New Roman', Times, serif;
+        font-family: monospace;
+        font-weight: bolder;
+    }
+    
+    p {
+        max-width: max-content;
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-family: monospace;
+        font-weight: bolder;
+    }
+    
+    .rodape {
+        background-color: rgb(red, green, blue);
+        color: #abcb75;
+    }
+    
+    h4 {
+        max-width: max-content;
+        font-size: 15px;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-family: monospace;
+        font-weight: bolder;
+    }
+    
+    img {
+        max-width: 500px;
+        max-height: 500px;
+        border-radius: 10px;
+        display: block;
+        margin: auto;
+    }
+    
+    iframe {
+        max-width: 400px;
+        max-height: 500px;
+        border-radius: 5px;
+        display: block;
+    }
+    
+    .dlcs {
+        max-width: 1000px;
+        max-height: 1000px;
+        border-radius: 10px;
+        display: block;
+        margin: auto;
+    }
+    
+    .macaco {
+        max-height: 100%;
+        max-width: 100%;
+    }
+    
+    .smash {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    
+    body {
+        background-color: #000;
+        background-image: url("imagens/rick.gif");
+        background-color: #cccccc;
+    }
